@@ -403,7 +403,7 @@
 
 参数设置：
 
-<img src="./image/7.png" style="zoom: 100%;" />
+
 
 ##### 快速选择工具
 
@@ -425,7 +425,7 @@
 
 参数设置：
 
-<img src="./image/8.png" style="zoom: 150%;" />
+
 
 按住<kbd>shift</kbd>键会将轨迹变成直线
 
@@ -445,7 +445,7 @@
 
 快捷键：<kbd>F5</kbd>
 
-<img src="./image/35.png" style="zoom: 120%;" />
+
 
 
 

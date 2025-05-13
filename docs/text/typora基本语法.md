@@ -106,7 +106,7 @@
 
 示例：
 
-``` py
+``` python
 a = 10 
 b = 2
 print(a+b)
@@ -118,7 +118,7 @@ print(a+b)
 
 也可以用于内部markdown文件内的跳转，类似锚点的效果（一般以`#标题`作为跳转id），也可以用于两个markdown文件之间进行跳转（跳转url为`文件相对路径`+`#标题`）
 
-[超链接](www.bing.com)
+[超链接](https://www.bing.com)
 
 ## 图片：
 

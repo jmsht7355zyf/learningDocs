@@ -16,7 +16,7 @@
 
 ## 计算机基础
 
-[windows快捷键](text/Windows常用快捷键)
+[windows快捷键](text/windows常用快捷键)
 
 [mac快捷键](text/mac常用快捷键)
 
