@@ -1,31 +1,41 @@
-name: Deploy VitePress to GitHub Pages
+name: Deploy VitePress Site
 
 on:
   push:
-    branches:
-      - main # 或者你想要触发部署的分支名
+    branches: [master]  # 只在 master 分支推送时触发
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # 关键权限：允许写入 gh-pages 分支
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
+      # 步骤 1：拉取代码
+      - name: Checkout Repository
+        uses: actions/checkout@v4
         with:
-          node-version: '16' # 根据需要调整Node版本
+          fetch-depth: 0  # 必须！用于获取完整的 git 历史记录
 
-      - name: Install dependencies
-        run: npm install
+      # 步骤 2：设置 Node.js 环境
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20  # 推荐使用 LTS 版本
+          cache: 'npm'     # 启用 npm 缓存加速
 
-      - name: Build site
-        run: npm run docs:build # 假设你的构建命令是docs:build，请根据实际情况修改
+      # 步骤 3：安装依赖
+      - name: Install Dependencies
+        run: npm ci       # 使用 clean install 保证依赖一致性
 
-      - name: Deploy to GitHub Pages
+      # 步骤 4：构建 VitePress
+      - name: Build Project
+        run: npm run docs:build
+
+      # 步骤 5：部署到 GitHub Pages
+      - name: Deploy to GH Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./docs/.vitepress/dist # 这里假设你的构建输出目录是docs/.vitepress/dist，请根据实际情况调整
+          publish_dir: docs/.vitepress/dist  # 必须与构建输出目录一致
+          keep_files: false  # 清除旧文件
