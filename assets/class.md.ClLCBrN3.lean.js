@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as r,ae as h}from"./chunks/framework.CfTffssW.js";const m=JSON.parse('{"title":"文档分类","description":"","frontmatter":{},"headers":[],"relativePath":"class.md","filePath":"class.md"}'),l={name:"class.md"};function o(p,a,i,s,n,c){return r(),e("div",null,a[0]||(a[0]=[h("",15)]))}const f=t(l,[["render",o]]);export{m as __pageData,f as default};
