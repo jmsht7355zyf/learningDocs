@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: '/learningDocs/',
+
   title: "凡尘轩",
   description: "个人学习记录",
   themeConfig: {
