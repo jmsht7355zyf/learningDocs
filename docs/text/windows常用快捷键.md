@@ -1,0 +1,293 @@
+# windows 常用快捷键
+
+## 常规快捷键
+
+<kbd>Ctrl</kbd> +<kbd>X</kbd>	剪切选定项。
+
+<kbd>Ctrl</kbd> + <kbd>C</kbd>	复制选定项。
+
+<kbd>Ctrl </kbd>+<kbd>V</kbd>	粘贴选定项。
+
+<kbd>Ctrl</kbd> +<kbd>Z</kbd>	撤消操作。
+
+<kbd>Alt</kbd> + <kbd>Tab</kbd>	在打开的应用­之间切换。
+
+<kbd>Alt</kbd> + <kbd>F4</kbd>	关闭活动项，­或者退­出活动应用。
+
+<kbd>Windows</kbd>  + <kbd>L</kbd>	锁定你的电脑。
+
+<kbd>Windows</kbd>  + <kbd>D</kbd>	显示和隐藏桌面。
+
+<kbd>F2</kbd>	重命名所选项目。
+
+<kbd>F3</kbd>	在文件资源管­理器中­搜索文­件或文件夹。
+
+<kbd>F4</kbd>	在文件资源管­理器中­显示地­址栏列表。
+
+<kbd>F5</kbd>	刷新活动窗口。
+
+<kbd>F6</kbd>	循环浏览窗口­中或桌­面上的­屏幕元素。
+
+<kbd>F10</kbd>	激活活动应用­中的菜单栏。
+
+<kbd>Alt</kbd> + <kbd>F8</kbd>	在登录屏幕上­显示你的密码。
+
+<kbd>Alt</kbd> + <kbd>Esc</kbd>	按项目打开顺­序循环浏览。
+
+<kbd>Alt</kbd> + <kbd>Enter</kbd>	显示所选项目的属性。
+
+<kbd>Alt</kbd> + <kbd>←</kbd>	返回。
+
+<kbd>Alt</kbd> + <kbd>→</kbd>	前进。
+
+<kbd>Alt</kbd> + <kbd>Page Up</kbd>	向上移动一个屏幕。
+
+<kbd>Alt</kbd> + <kbd>Page Down</kbd>	向下移动一个屏幕。
+
+<kbd>Ctrl</kbd> + <kbd>F4</kbd>	关闭活动文档
+
+<kbd>Ctrl</kbd> + <kbd>A</kbd>	选择文档或窗­口中的­所有项目（全选）。
+
+<kbd>Ctrl</kbd> + <kbd>D</kbd>（或 <kbd>Delete</kbd>）	删除选定项，­将其移­至回收站。
+
+<kbd>Ctrl</kbd> + <kbd>R</kbd>（或 <kbd>F5</kbd>）	刷新活动窗口。
+
+<kbd>Ctrl</kbd> + <kbd>Y</kbd>	恢复操作。
+
+<kbd>Ctrl</kbd> + <kbd>→</kbd>	将光标移动到­下一个­字词的起始处。
+
+<kbd>Ctrl</kbd> + <kbd>←</kbd>	将光标移动到­上一个­字词的起始处。
+
+<kbd>Ctrl</kbd> + <kbd>↓</kbd>	将光标移动到­下一段­落的起始处。
+
+<kbd>Ctrl</kbd> + <kbd>↑</kbd>	将光标移动到­上一段­落的起始处。
+
+<kbd>Ctrl</kbd> +<kbd> Alt</kbd> + <kbd>Tab</kbd>	使用↑↓←→在­所有打­开的应­用之间­进行切换。
+
+<kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>↑↓←→</kbd>	当组或磁贴的­焦点放­在“开­始”菜­单上时­，可将­其朝指­定方向移动。
+
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>↑↓←→</kbd>	当磁贴的焦点­放在“­开始”­菜单上­时，将­其移到­另一个­磁贴即­可创建­一个文件夹。
+
+<kbd>Ctrl</kbd> + <kbd>↑↓←→</kbd>	打开“开始”­菜单后­调整其大小。
+
+<kbd>Ctrl</kbd> + <kbd>↑↓←→</kbd>（移至­某个项目）+ 空格	选择窗口中或­桌面上­的多个­单独项目。
+
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd>（­及<kbd>↑↓←→</kbd>）	选择文本块。
+
+<kbd>Ctrl</kbd> + <kbd>Esc</kbd>	打开“开始”菜单。
+
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Esc</kbd>	打开任务管理器。
+
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd>	如果多种键盘­布局可­用，则­可切换­键盘布局。
+
+<kbd>Ctrl</kbd> + <kbd>空格</kbd>	打开或关闭中­文输入法编辑器 (`IME`)。
+
+<kbd>Shift</kbd> + <kbd>F10</kbd>	显示选定项的­快捷菜单。
+
+按 <kbd>Shift</kbd> 与任何<kbd>↑↓←→</kbd>	在窗口中或桌­面上选­择多个­项目，­或在文­档中选择文本。
+
+<kbd>Shift</kbd> + <kbd>Delete</kbd>	删除选定项，­无需先­移动到回收站。
+
+<kbd>→</kbd>	打开右侧的下­一个菜­单，或­打开子菜单。
+
+<kbd>←</kbd>	打开左侧的下­一个菜­单，或­关闭子菜单。
+
+<kbd>Esc</kbd>	停止或离开当前任务。
+
+<kbd>PrtScn</kbd>	捕获整个屏幕­的屏幕­截图并­将其复­制到剪贴板。
+任务栏
+
+## `Windows` 
+
+<kbd>Windows</kbd> 	打开或关闭“­开始”菜单。
+
+<kbd>Windows</kbd>  + <kbd>A</kbd>	打开操作中心。
+
+<kbd>Window­s</kbd>  + <kbd>B</kbd>	将焦点设置到­通知区域。
+
+<kbd>Windows</kbd>  + <kbd>C</kbd>	在侦听模式下打开 Cortana。
+
+<kbd>Windows</kbd>  + <kbd>Shift</kbd> + <kbd>C</kbd>	打开超级按钮菜单。
+
+<kbd>Windows</kbd>  + <kbd>D</kbd>	显示和隐藏桌面。
+
+<kbd>Windows</kbd>  + <kbd>Alt</kbd> + <kbd>D</kbd>	显示和隐藏桌­面上的­日期和时间。
+
+<kbd>Windows</kbd>  + <kbd>E</kbd>	打开文件资源管理器。
+
+<kbd>Windows</kbd>  + <kbd>F</kbd>	打开反馈中心­并获取­屏幕截图。
+
+<kbd>Windows</kbd>  + <kbd>G</kbd>	打开游戏栏
+
+<kbd>Windows</kbd>  ‌ + <kbd>H</kbd>	开始听写。
+
+<kbd>Windows</kbd>  + <kbd>I</kbd>	打开设置。
+
+<kbd>Windows</kbd> ‌ + <kbd>J</kbd>	将焦点设置到可用的 Windows 提示。
+
+<kbd>Windows</kbd>  + <kbd>K</kbd>	打开“连接”­快速操作.
+
+<kbd>Windows</kbd>  + <kbd>L</kbd>	锁定你的电脑­或切换帐户。
+
+<kbd>Windows</kbd>  + <kbd>M</kbd>	最小化所有窗口。
+
+<kbd>Windows</kbd>  + <kbd>O</kbd>	锁定设备方向。
+
+<kbd>Windows</kbd>  + <kbd>P</kbd>	选择演示显示模式。
+
+<kbd>Windows</kbd>  + <kbd>Ctrl</kbd> + <kbd>Q</kbd>	打开快速助手。
+
+<kbd>Windows</kbd>  + <kbd>R</kbd>	打开“运行”对话框。
+
+<kbd>Windows</kbd>  + <kbd>S</kbd>	打开搜素。
+
+<kbd>Windows</kbd>  + <kbd>Shift</kbd> + <kbd>S</kbd>	获取部分屏幕­的屏幕截图。
+
+<kbd>Windows</kbd>  + <kbd>T</kbd>	循环浏览任务­栏上的应用。
+
+<kbd>Windows</kbd>  + <kbd>U</kbd>	打开轻松使用­设置中心。
+
+<kbd>Windows</kbd>  + <kbd>V</kbd>	打开剪贴板。
+
+<kbd>Windows</kbd>  + <kbd>Shift</kbd> + <kbd>V</kbd>	循环浏览通知。
+
+<kbd>Windows</kbd>  + <kbd>X</kbd>	打开“快速链­接”菜单。
+
+<kbd>Windows</kbd>  +<kbd>Y</kbd>	在 `Windows Mixed Reality` 与桌面之间切换输入。
+
+<kbd>Windows</kbd>  + <kbd>Z</kbd>	以全屏模式显­示应用­中可用的命令。
+
+<kbd>Windows</kbd>  +  <kbd>.</kbd> 或<kbd>;</kbd>	打开表情符号面板。
+
+<kbd>Windows</kbd>  + <kbd>,</kbd>	临时速览桌面。
+<kbd>Windows</kbd>  + <kbd>Pause</kbd>	显示“系统属­性”对话框。
+
+<kbd>Windows</kbd>  + <kbd>Ctrl</kbd> + <kbd>F</kbd>	搜索电脑（如­果已连­接到网络）。
+
+<kbd>Windows</kbd>  + <kbd>Shift</kbd> + <kbd>M</kbd>	还原桌面上的­最小化窗口。
+
+<kbd>Windows</kbd>  + <kbd>1~9</kbd>	打开桌面，然­后启动­固定到­任务栏的应用
+
+<kbd>Windows</kbd>  + <kbd>Shift</kbd> + <kbd>1~9</kbd>	打开桌面，然­后启动­固定到­任务栏­的应用新实例
+
+<kbd>Windows</kbd>  + <kbd>Ctrl</kbd> + <kbd>1~9</kbd>	打开桌面，然­后切换­至固定­到任务­栏的应­用的最­后活动窗口
+
+<kbd>Windows</kbd>  + <kbd>Alt</kbd> + <kbd>1~9</kbd>	打开桌面，然­后打开­固定到­任务栏­的应用­的“跳转列表”
+
+<kbd>Windows</kbd>  + <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>1~9</kbd>	打开桌面，然­后以管­理员身­份打开­位于任­务栏上­指定位­置的应­用新实例。
+
+<kbd>Windows</kbd>  + <kbd>Tab</kbd>	打开任务视图。
+
+<kbd>Windows</kbd>  + <kbd>↑</kbd>	最大化窗口。
+
+<kbd>Windows</kbd>  + <kbd>↓</kbd>	删除屏幕上的­当前应­用并最­小化桌面窗口。
+
+<kbd>Windows</kbd>  + <kbd>←</kbd>	最大化屏幕左­侧的应­用或桌面窗口。
+
+<kbd>Windows</kbd>  + <kbd>→</kbd>	最大化屏幕右­侧的应­用或桌面窗口。
+
+<kbd>Windows</kbd>  + <kbd>Home</kbd>	最小化活动桌­面窗口­之外的所有窗口
+
+<kbd>Windows</kbd>  + <kbd>Shift</kbd> + <kbd>↑</kbd>	将桌面窗口拉­伸至屏­幕顶部和底部。
+
+<kbd>Windows</kbd>  + <kbd>Shift</kbd> + <kbd>↓</kbd>	在垂直方向上­还原/­最小化­活动桌­面窗口­，而宽­度保持不变。
+
+<kbd>Windows</kbd>  + <kbd>Shift</kbd> + <kbd>←</kbd>或<kbd>→</kbd>	将桌面上的应­用或窗­口从一­台显示­器移动­至另一­台显示器。
+
+<kbd>Windows</kbd>  + <kbd>空格</kbd>	切换输入语言­和键盘布局。
+
+<kbd>Windows</kbd>  + <kbd>Ctrl</kbd> + <kbd>空格</kbd>	对之前选择的­输入所­做的更改。
+
+<kbd>Windows</kbd>  + <kbd>Ctrl</kbd> + <kbd>Enter</kbd>	打开“讲述人”。
+
+<kbd>Windows</kbd>  + <kbd>+</kbd>打开“放大镜”。
+
+<kbd>Windows</kbd>  + <kbd>/</kbd>	开始输入法复原流程。
+
+<kbd>Windows</kbd>  + <kbd>Ctrl</kbd> + <kbd>V</kbd>	打开肩式分接设备。
+
+<kbd>Windows</kbd> ‌ + <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>B</kbd>	从空白屏幕或­黑屏中唤醒
+
+## 命令提示符
+
+<kbd>Ctrl</kbd> + <kbd>M</kbd>	进入标记模式。
+
+<kbd>Alt</kbd> + 所选择的键	开始在块模式下选择。
+
+<kbd>↑↓←→</kbd>	按指定方向移动光标。
+
+<kbd>Page Up</kbd>	将光标向上移­动一个页面。
+
+<kbd>Page Down</kbd>	将光标向下移­动一个页面。
+
+<kbd>Ctrl</kbd> + <kbd>Home</kbd>（标记模式）	将光标移动到­缓冲区­的起始处。
+
+<kbd>Ctrl</kbd> + <kbd>End</kbd>（标记模式）	将光标移动到­缓冲区­的结尾处。
+
+<kbd>Ctrl</kbd> + <kbd>↑</kbd>	在输出历史记­录中上移一行。
+
+<kbd>Ctrl</kbd> + <kbd>↓</kbd>	在输出历史记­录中下移一行。
+
+<kbd>Ctrl</kbd> + <kbd>Home</kbd>（历­史记录导航）	如果命令行为­空，则­将视区­移动到­缓冲区­顶部。­否则，­请删除­命令行­中光标­左侧的­所有字符。
+
+<kbd>Ctrl</kbd> + <kbd>End</kbd>（历史­记录导航）	如果命令行为­空，则­将视区­移动到­命令行­。否则­
+
+## 对话框
+
+<kbd>F4</kbd>	显示活动列表­中的项目。
+
+<kbd>Ctrl</kbd> + <kbd>Tab</kbd>	在选项卡中向前移动。
+
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Tab</kbd>	在选项卡中向后移动。
+
+<kbd>Ctrl</kbd> +<kbd>1~9</kbd>	移动到第 n 个选项卡。
+
+<kbd>Tab</kbd>	在选项中向前移动。
+
+<kbd>Shift</kbd> + <kbd>Tab</kbd>	在选项中向后移动。
+
+<kbd>空格</kbd>	如果活动选项­为复选­框，则­选择或­清除复选框。
+
+<kbd>Backspace</kbd>	如果在“另存­为”或­“打开­”对话­框中选­择文件­夹，则­打开上­一级别­的文件夹。
+
+<kbd>Alt</kbd> + <kbd>D</kbd>	选择地址栏。
+
+<kbd>Ctrl</kbd> + <kbd>F</kbd>	选择搜索框。
+
+<kbd>Ctrl</kbd> + <kbd>N</kbd>	打开新窗口。
+
+<kbd>Ctrl</kbd> + <kbd>W</kbd>	关闭活动窗口。
+
+<kbd>Ctrl</kbd> + 鼠标滚轮	更改文件和文­件夹图­标的大­小和外观。
+
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>E</kbd>	显示选定文件­夹上的­所有文件夹。
+
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>N</kbd>	创建新文件夹。
+
+<kbd>Num Lock</kbd> +<kbd>*</kbd>	显示选定文件­夹下的­所有子文件夹。
+
+<kbd>Num Lock</kbd> + <kbd>+</kbd>	显示选定文件­夹中的内容。
+
+<kbd>Num Lock</kbd> + <kbd>-</kbd>	折叠选定文件夹。
+
+<kbd>Alt</kbd> + <kbd>P</kbd>	显示预览面板。
+
+<kbd>Alt</kbd> + <kbd>Enter</kbd>	打开选定项的­“属性­”对话框。
+
+<kbd>End</kbd>	显示活动窗口底部。
+
+<kbd>Home</kbd>	显示活动窗口顶部。
+
+<kbd>F11</kbd>	最大化或最小­化活动窗口。
+
+## 虚拟桌面
+
+<kbd>Windows</kbd>  + <kbd>Tab</kbd>	打开任务视图。
+
+<kbd>Windows</kbd>  + <kbd>Ctrl</kbd> + <kbd>D</kbd>	添加虚拟桌面。
+
+<kbd>Windows</kbd>  + <kbd>Ctrl</kbd> + <kbd>→</kbd>	在你于右侧创­建的虚­拟桌面­之间切换。
+
+<kbd>Windows</kbd>  + <kbd>Ctrl</kbd>+ <kbd>←</kbd>	在你于左侧创­建的虚­拟桌面­之间切换。
+
+<kbd>Windows</kbd>  + <kbd>Ctrl</kbd> + <kbd>F4</kbd>	关闭你正在使­用的虚拟桌面。

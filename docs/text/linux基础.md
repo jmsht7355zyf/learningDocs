@@ -1,0 +1,288 @@
+# Linux 基础
+
+个人设置用户密码
+
+## 账号
+
+账号：jmsht 
+
+密码：123
+
+
+
+账号：zyf
+
+密码：123456
+
+##  服务器IP
+
+Mac Ubuntu zyf
+
+Ssh：ssh zyf@192.168.0.102
+
+## linux 基础命令（Ubuntu）
+
+### 帮助
+
+```shell
+man '命令' #查找命令的帮助
+```
+
+
+
+### 连接服务器
+
+```shell
+ ssh '用户名'@ip #例如192.168.0.103
+```
+
+### 服务器开关机等命令
+
+```shell
+sudo reboot #重启
+sudo poweroff # 关机
+```
+
+
+
+### 用户设置
+
+```shell
+sudo passwd root #设置root密码
+su #切换root用户
+su '用户名' #切换到对应用户
+exit # 退出
+
+cat /etc/passwd # 查看系统下有哪些用户
+sudo useradd  -m '用户名' -s /bin/bash # 添加用户
+sudo passwd '用户名' # 设置用户名密码
+sudo userdel  -r '用户名' #删除用户
+
+ls /home # 显示用户文件夹下的文件数
+
+history # 历史命令
+```
+
+### 文件相关
+
+文件权限：r（读，值为4）、w（写值为2）、x（执行值为1）
+
+```shell
+
+ls #显示当前目录下的文件和文件夹
+ls / #显示根目录下的文件和文件夹
+ls ../ # 显示上一级的文件和文件夹
+ls /home/'文件夹' # 显示绝对路径下的文件夹
+ls -l #显示文件和文件夹的详细信息
+ls -il #增加显示inode值
+ls -a #显示隐藏文件，Linux下文件名以'.'开头，就是隐藏文件
+ls -lh #人类可读的文件大小
+ls | wc -l #当前目录下有多少文件
+
+pwd #显示当前位置
+cd '文件路径'
+cd / #到根目录
+cd ~ #到用户主目录
+cd .. #切到上一级目录
+cd - #切到上一次cd操作的路径
+
+mkdir '文件名/文件路径' #创建目录
+rmdir '文件名' #删除目录 只能删除单个文件目录，若该目录下有子文件，则会无法删除
+
+touch '文件名' #新建文件
+
+cp '源文件' '目标目录/路径' #拷贝文件到指定目录或路径
+cp -r '目录' '目标目录/路径' #拷贝目录到指定目录或路径
+cp -i '目录' '目标目录/路径' #拷贝目录到指定目录或路径,会有相关提醒，是否存在重复的文件，是否需要覆盖
+
+mv '源文件/目录' '目标目录/路径' #移动文件到指定目录或路径
+mv '源文件' '重命名文件' #重命名，要在同一目录（路径）下
+
+rm -rf/ #删除所有的目录和文件 危险命令
+rm '文件名' #删除文件
+rm -r '目录名' #删除目录
+
+chmod o+w '文件名' #给其他用户添加文件写的权限
+chmod u+w '文件名' #给用户添加文件写的权限
+chmod g+w '文件名' #给同组用户添加文件写的权限
+chmod 777 "文件名" #给所有用户所有权限 
+chmod 770 "目录" #其他用户没有任何权限
+
+# find '起始目录/路径' '查找条件' '操作'
+find /home/zyf -name python # 查找zyf目录下Python关键词相关的路径、目录、文件 
+find . -name '目录名' -type d #查找当前目录下的目录名 d(目录)、f（文件）、ln(链接)
+find . -name '文件名' and '文件名' -type d  #查找当前目录下的两个目录
+find . -name ！'文件名'  #查找当前目录下非该文件的所有文件
+#通配符
+#*代表0个或任意字符; ？有且只有一个字符; [] ASCII码上连续的一些字符
+find . -name 'test*' #查找当前目录下，所有test后的所有文件或目录
+find . -name 'test？'#查找当前目录下，所有test后只有一个字符的文件或目录
+find . -name 'test['A','a']
+find . perm 777 #查找当前目录下权限是777的文件
+find . -size +1G #在当前目录下查找大于1G的文件 大小的单位b（位）、c（字节）、w、k、M、G
+find . -mmin -60 #查找在前目录下60分钟以内修改过的文件
+find . -name 'test' -exec ls -l {} \;
+find . -name 'test' | xargs ls -l #xargs 表示分别进行  
+
+grep '查找内容' '文件名' # 在文件中查找相关内容
+
+cat '文件名' # 查看文件
+head -3 '文件名' #查看文件前3行
+tail -5 '文件名' #查看文件的最后5行
+
+wc '文件名' # 统计文件中的行数、字数、字节数 、字数（-l、-m、-c、-w）
+
+
+
+
+# 需要先安装 sudo apt install tree
+tree # 显示树形结构 
+tree -a #显示隐藏文件（不包含‘.’、'..'开头的文件）
+tree -d #只显示目录
+tree -h #显示文件大小
+
+echo '写入内容' >'文件名/文件路径' #写入内容到文件
+
+cat '文件名/文件路径' #查看文件内容
+scp '用户名'@IP：~/'文件路径' . #把服务器上的指定文件拷贝到本地主机桌面 例如：scp zyf@192.168.0.102:~/home/test
+
+tar cvzf '目录'.tar.gz '目录' #压缩
+tar xf '目录'.tar.gz   #解压缩
+
+scp '文件名/目录/文件名'  '用户名'@IP：'路径' #从本机复制到远程服务器
+scp '用户名'@IP：'路径/目录/文件名'  '本机路径' #从服务器复制到本机   
+
+# 无秘钥登录设置
+ssh-keygen
+ssh-copy-id '用户名'@IP
+```
+
+### 网络相关
+
+```shell
+sudo service networking restart # 重启网络
+sudo service sshd  restart #重启ssh服务
+
+# 显示IP地址的多种方式
+ifconfig
+hostname -I
+ip a
+ip addr show 
+
+```
+
+## Vim
+
+### 安装
+
+```shell
+sudo apt install vim
+```
+
+### 模式选择
+
+命令模式：<kbd>esc</kbd>
+
+插入（编辑）模式：<kbd>i</kbd>，<kbd>shift</kbd>+<kbd>i</kbd>（到行首），<kbd>shift</kbd>+<kbd>a</kbd>（到行尾）
+
+### 配置文件  .vimrc
+
+```visual basic
+set nu #显示行号
+
+```
+
+### 命令模式
+
+<kbd>：</kbd>+<kbd>w</kbd> 保存
+
+<kbd>：</kbd>+<kbd>q</kbd> 直接退出
+
+<kbd>：</kbd>+<kbd>w</kbd>+<kbd>q</kbd>  保存退出
+
+<kbd>：</kbd>+<kbd>q</kbd>+<kbd>！</kbd> 强行退出
+
+
+
+<kbd>x</kbd> 删除光标处的字符
+
+<kbd>u</kbd> 撤销上一次操作
+
+<kbd>shift</kbd>+<kbd>d</kbd>  删除行内光标后面的内容 
+
+<kbd>d</kbd>+<kbd>d</kbd> 删除所在行
+
+<kbd>3</kbd>+<kbd>d</kbd>+<kbd>d</kbd>  删除所在行至下的3行
+
+
+
+<kbd>y</kbd>+<kbd>y</kbd> 复制光标所在的整行内容
+
+<kbd>3</kbd>+<kbd>y</kbd>+<kbd>y</kbd> 复制光标所在及下方2行的内容
+
+
+
+<kbd>p</kbd> 将复制的内容粘贴到光标处
+
+
+
+<kbd>w</kbd> 光标往后移动一个字符
+
+<kbd>b</kbd> 光标往前移动一个字符
+
+<kbd>3</kbd>+<kbd>+</kbd> 光标向后移动3行
+
+<kbd>3</kbd>+<kbd>-</kbd> 光标向前移动3行
+
+<kbd>^</kbd> 光标移动到行首
+
+<kbd>$</kbd> 光标移动到行尾
+
+<kbd>g</kbd>+<kbd>g</kbd> 光标移动到文档头
+
+<kbd>shift</kbd>+<kbd>g</kbd> 光标移动到文档尾
+
+<kbd>shift</kbd>+<kbd>h</kbd> 光标移动到当前页首
+
+
+
+<kbd>/</kbd>+`字符` 查找字符
+
+ <kbd>：</kbd>+<kbd>/</kbd>+`原字符`+<kbd>/</kbd>+`替换字符` 替换当前所在行的首字符
+
+ <kbd>：</kbd>+<kbd>/</kbd>+`原字符`+<kbd>/</kbd>+`替换字符` +<kbd>/</kbd>+<kbd>g</kbd> 替换当前所在行的所有字符
+
+ <kbd>：</kbd>+<kbd>/</kbd>+`原字符`+<kbd>/</kbd>+`替换字符` +<kbd>/</kbd>+<kbd>%</kbd> 替换所有字符
+
+
+
+<kbd>v</kbd> 选中模式
+
+<kbd>ctrl</kbd>+<kbd>v</kbd> 竖选
+
+<kbd>：</kbd>+<kbd>h</kbd>+<kbd>e</kbd>+<kbd>l</kbd>+<kbd>p</kbd> help帮助
+
+
+
+<kbd>ctrl</kbd>+ <kbd>d</kbd> 向下翻半页
+
+<kbd>ctrl</kbd>+ <kbd>f</kbd> 向下翻一页
+
+<kbd>ctrl</kbd>+ <kbd>u</kbd> 向上翻半页
+
+<kbd>ctrl</kbd>+ <kbd>b</kbd> 向下翻一页
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
