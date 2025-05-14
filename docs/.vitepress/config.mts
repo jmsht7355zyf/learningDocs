@@ -40,6 +40,7 @@ export default defineConfig({
         }
       }
     },
+
     // markdown标题显示
     outline: {
       level: [1, 6], // 显示h1到h6所有级别的标题,
