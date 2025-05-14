@@ -7,7 +7,7 @@ hero:
   text: "个人学习记录"
   tagline: 
   image:
-    src: /logo.png
+    src: /public/logo.svg
     alt: VitePress
   actions:
     - theme: brand
