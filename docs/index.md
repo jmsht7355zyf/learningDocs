@@ -33,7 +33,7 @@ features:
     link: /text/windows常用快捷键
   - title: Linux基础
     details: Linux基础命令及相关
-    link: /text/Linux基础
+    link: /text/linux基础
   - title: typora快捷键
     details: typora快捷键及markdown语法
     link: /text/typora基本语法
