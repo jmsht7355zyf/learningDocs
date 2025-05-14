@@ -4,7 +4,7 @@ export default defineConfig({
   base: '/learningDocs/',
   title: "凡尘轩",
   description: "个人学习记录",
-  logo: "/logo.png",
+  logo: "/logo.svg",
   siteTitle: false,
 
 
