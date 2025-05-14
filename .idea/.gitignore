@@ -11,4 +11,6 @@
 # 默认忽略的目录
 /.git/
 /.idea/
+/.vscode/
+/node_modules/
 
