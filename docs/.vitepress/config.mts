@@ -9,7 +9,7 @@ export default defineConfig({
 
 
 
-
+//主题设置
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     // 导航栏
