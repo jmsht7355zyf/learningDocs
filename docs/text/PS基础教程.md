@@ -2,23 +2,23 @@
 
 ## 自定义快捷键
 
-自定义快捷键：<kbd>CTRL</kbd>+<kbd>shift</kbd>+<kbd>alt</kbd>+<kbd>k</kbd>
+自定义快捷键：`CTRL`+`shift`+`alt`+`k`
 
-内容识别填充：<kbd>CTRL</kbd>+<kbd>alt</kbd>+<kbd>F5</kbd>
+内容识别填充：`CTRL`+`alt`+`F5`
 
-选区拓展：<kbd>CTRL</kbd>+<kbd>shift</kbd>+<kbd>=</kbd>
+选区拓展：`CTRL`+`shift`+`=`
 
-收缩选区：<kbd>CTRL</kbd>+<kbd>shift</kbd>+<kbd>-</kbd>
+收缩选区：`CTRL`+`shift`+`-`
 
-置入嵌入对象：<kbd>CTRL</kbd>+<kbd>alt</kbd>+<kbd>[</kbd>
+置入嵌入对象：`CTRL`+`alt`+`[`
 
-置入链接的智能对象：<kbd>CTRL</kbd>+<kbd>alt</kbd>+<kbd>]</kbd>
+置入链接的智能对象：`CTRL`+`alt`+`]`
 
-打包：<kbd>CTRL</kbd>+<kbd>shift</kbd>+<kbd>p</kbd>
+打包：`CTRL`+`shift`+`p`
 
-高斯模糊：<kbd>CTRL</kbd>+<kbd>shift</kbd>+<kbd>alt</kbd>+<kbd>g</kbd>
+高斯模糊：`CTRL`+`shift`+`alt`+`g`
 
-动感模糊：<kbd>CTRL</kbd>+<kbd>shift</kbd>+<kbd>alt</kbd>+<kbd>d</kbd>
+动感模糊：`CTRL`+`shift`+`alt`+`d`
 
 ## 界面
 
@@ -36,19 +36,19 @@
 
 ### 快捷键
 
-新建文件：<kbd>CTRL</kbd>+<kbd>N</kbd>
+新建文件：`CTRL`+`N`
 
-新建图层：<kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>N</kbd>
+新建图层：`CTRL`+`SHIFT`+`N`
 
-打开文件：<kbd>CTRL</kbd>+<kbd>O</kbd>
+打开文件：`CTRL`+`O`
 
-关闭文件：<kbd>CTRL</kbd>+<kbd>W</kbd>
+关闭文件：`CTRL`+`W`
 
-保存文件：<kbd>CTRL</kbd>+<kbd>S</kbd>
+保存文件：`CTRL`+`S`
 
-另存为：<kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>S</kbd>
+另存为：`CTRL`+`SHIFT`+`S`
 
-以网页格式存储：<kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>ALT</kbd>+<kbd>S</kbd>
+以网页格式存储：`CTRL`+`SHIFT`+`ALT`+`S`
 
 ### 新建预设
 
@@ -62,9 +62,9 @@
 
 ### 图像文件设置
 
-图像大小设置：<kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>I</kbd>
+图像大小设置：`CTRL`+`ALT`+`I`
 
-画布大小设置：<kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>C</kbd>
+画布大小设置：`CTRL`+`ALT`+`C`
 
 像素计算公式：
 
@@ -76,7 +76,7 @@
 
 ### 首选项
 
-快捷键：<kbd>CTRL</kbd>+<kbd>K</kbd>
+快捷键：`CTRL`+`K`
 
 暂存盘设置：即临时文件存储位置的设置
 
@@ -84,7 +84,7 @@
 
 自动保存设置：文件处理 -> 文件存储选项
 
-快捷键设置：<kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>ALT</kbd>+<kbd>K</kbd>
+快捷键设置：`CTRL`+`SHIFT`+`ALT`+`K`
 
 ## 批量/自动化操作
 
@@ -110,23 +110,23 @@
 
 ### 快捷键
 
-合并图层：<kbd>CTRL</kbd>+<kbd>E</kbd>
+合并图层：`CTRL`+`E`
 
-图层向上移动：<kbd>CTRL</kbd>+<kbd>]</kbd>
+图层向上移动：`CTRL`+`]`
 
-图层向下移动：<kbd>CTRL</kbd>+<kbd>[</kbd>
+图层向下移动：`CTRL`+`[`
 
-复制图层：<kbd>CTRL</kbd>+<kbd>J</kbd>也可以按住<kbd>ALT</kbd>移动鼠标来复制图层
+复制图层：`CTRL`+`J`也可以按住`ALT`移动鼠标来复制图层
 
-删除图层：<kbd>DEL</kbd>
+删除图层：`DEL`
 
-视图放大：<kbd>CTRL</kbd>+<kbd>+</kbd>
+视图放大：`CTRL`+`+`
 
-视图缩小：<kbd>CTRL</kbd>+<kbd>-</kbd>
+视图缩小：`CTRL`+`-`
 
-抓手工具：<kbd>H</kbd>或<kbd>空格</kbd>
+抓手工具：`H`或`空格`
 
-缩放工具：<kbd>Z</kbd>
+缩放工具：`Z`
 
 ### 图层过滤
 
@@ -144,15 +144,15 @@
 
 ### 图层编组
 
-快速编组快捷键：<kbd>CTRL</kbd>+<kbd>G</kbd>
+快速编组快捷键：`CTRL`+`G`
 
-取消编组：<kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>G</kbd>
+取消编组：`CTRL`+`SHIFT`+`G`
 
-图层合并（向下合并）：<kbd>CTRL</kbd>+<kbd>E</kbd>
+图层合并（向下合并）：`CTRL`+`E`
 
-保留图层合并（向下合并）：<kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>E</kbd>
+保留图层合并（向下合并）：`CTRL`+`ALT`+`E`
 
-盖印图层：<kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>SHIFT</kbd>+<kbd>E</kbd>
+盖印图层：`CTRL`+`ALT`+`SHIFT`+`E`
 
 ### 图层复合
 
@@ -160,7 +160,7 @@
 
 ### 图层剪切蒙版
 
-快捷键：<kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>G</kbd>
+快捷键：`CTRL`+`ALT`+`G`
 
 注意：被嵌入的图层一定要放在上方
 
@@ -320,11 +320,11 @@
 
 ### 裁剪工具
 
-快捷键：<kbd>C</kbd>
+快捷键：`C`
 
-调整画布大小：<kbd>CTRL+ALT+C</kbd>
+调整画布大小：`CTRL+ALT+C`
 
-调整图像大小：<kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>I</kbd>
+调整图像大小：`CTRL`+`ALT`+`I`
 
 #### 裁切
 
@@ -334,39 +334,39 @@
 
 #### 屏幕模式
 
-快捷键：<kbd>F</kbd>进行切换，一般还是以标准模式为最佳
+快捷键：`F`进行切换，一般还是以标准模式为最佳
 
 #### 显示额外内容
 
-快捷键：<kbd>CTRL</kbd>+<kbd>H</kbd>
+快捷键：`CTRL`+`H`
 
 #### 标尺
 
-快捷键：<kbd>CTRL</kbd>+<kbd>R</kbd>
+快捷键：`CTRL`+`R`
 
 ## 基础工具
 
 ### 移动工具
 
-快捷键：<kbd>V</kbd>
+快捷键：`V`
 
 特性1：能够通过拖拽，跨文件进行复制图层
 
 自动选择：自由选择文件内的图层来实现移动
 
-按住<kbd>SHIFT</kbd>来移动图层，只能在水平和垂直方向移动
+按住`SHIFT`来移动图层，只能在水平和垂直方向移动
 
-按住<kbd>ALT</kbd>来移动图层，能够复制该图层
+按住`ALT`来移动图层，能够复制该图层
 
 ### 选框工具
 
-快捷键：<kbd>M</kbd>
+快捷键：`M`
 
-按住<kbd>SHIFT</kbd>来划定选区，会形成正方形、圆形等规则图形选区
+按住`SHIFT`来划定选区，会形成正方形、圆形等规则图形选区
 
-按住<kbd>ALT</kbd>来划定选区，则是以中心点来划定选区
+按住`ALT`来划定选区，则是以中心点来划定选区
 
-取消选区：<kbd>CTRL+D</kbd>
+取消选区：`CTRL+D`
 
 #### 选区选项
 
@@ -381,13 +381,13 @@
 
 使选区边缘柔和过渡
 
-羽化快捷键：<kbd>SHIFT</kbd>+<kbd>F6</kbd>
+羽化快捷键：`SHIFT`+`F6`
 
 ### 魔棒与套索工具
 
 #### 套索工具
 
-快捷键：<kbd>L</kbd>
+快捷键：`L`
 
 ##### 多边形套索工具
 
@@ -399,7 +399,7 @@
 
 #### 魔棒工具
 
-快捷键：<kbd>M</kbd>
+快捷键：`M`
 
 参数设置：
 
@@ -411,9 +411,9 @@
 
 ### 历史工具
 
-还原上一步(消除记录)：<kbd>CTRL</kbd>+<kbd>Z</kbd>
+还原上一步(消除记录)：`CTRL`+`Z`
 
-还原上一步(保存记录)：<kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Z</kbd>
+还原上一步(保存记录)：`CTRL`+`ALT`+`Z`
 
 创建历史文档：用于操作备份文件
 
@@ -421,17 +421,17 @@
 
 ### 画笔工具
 
-快捷键：<kbd>B</kbd>
+快捷键：`B`
 
 参数设置：
 
 
 
-按住<kbd>shift</kbd>键会将轨迹变成直线
+按住`shift`键会将轨迹变成直线
 
-按住<kbd>alt</kbd>键来吸取颜色
+按住`alt`键来吸取颜色
 
-按住<kbd>alt</kbd>键来，按住鼠标右键，水平移动鼠标来改变画笔大小，仅适用于`Windows`
+按住`alt`键来，按住鼠标右键，水平移动鼠标来改变画笔大小，仅适用于`Windows`
 
 利用左右中括号键来改变画笔大小
 
@@ -443,7 +443,7 @@
 
 #### 画笔面板
 
-快捷键：<kbd>F5</kbd>
+快捷键：`F5`
 
 
 
@@ -459,7 +459,7 @@
 
 ### 橡皮擦工具
 
-快捷键：<kbd>E</kbd>
+快捷键：`E`
 
 用于擦除图层上的像素，使用设置与画笔工具类似
 
@@ -473,11 +473,11 @@
 
 ### 仿章工具
 
-快捷键：<kbd>S</kbd>
+快捷键：`S`
 
 ### 修复画笔工具
 
-快捷键：<kbd>J</kbd>
+快捷键：`J`
 
 ##### 修补工具
 
@@ -495,17 +495,17 @@
 
 ### 减淡加深工具
 
-快捷键：<kbd>O</kbd>
+快捷键：`O`
 
 ### 油漆桶工具
 
-快捷键：<kbd>G</kbd>
+快捷键：`G`
 
-填充命令：<kbd>SHIFT</kbd>+<kbd>F5</kbd>
+填充命令：`SHIFT`+`F5`
 
 ### 渐变工具
 
-快捷键：<kbd>G</kbd>
+快捷键：`G`
 
 渐变工具选项：
 
@@ -513,23 +513,23 @@
 
 ### 自由变换工具
 
-快捷键：<kbd>CTRL+T</kbd>
+快捷键：`CTRL+T`
 
-再次变换：<kbd>CTRL+SHIFT+T</kbd>
+再次变换：`CTRL+SHIFT+T`
 
-再次变换复制：<kbd>CTRL+SHIFT+ALT+T</kbd>
+再次变换复制：`CTRL+SHIFT+ALT+T`
 
-按住<kbd>alt</kbd>键，并用鼠标选择参考点（轴心）
+按住`alt`键，并用鼠标选择参考点（轴心）
 
-按住<kbd>CTRL</kbd>键，并在点上进行操作，进行扭曲变换
+按住`CTRL`键，并在点上进行操作，进行扭曲变换
 
 ### 钢笔工具
 
-快捷键：<kbd>P</kbd>
+快捷键：`P`
 
 是基于贝塞尔曲线原理来实现的
 
-按住<kbd>ctrl</kbd>键，切换为直接选择工具
+按住`ctrl`键，切换为直接选择工具
 
 <img src="./image/23.png" style="zoom: 100%;" />
 
@@ -561,13 +561,13 @@
 
 #### 选择工具
 
-快捷键：<kbd>A</kbd>
+快捷键：`A`
 
-按住<kbd>CTRL</kbd>键来实现下方两种工具之间的切换
+按住`CTRL`键来实现下方两种工具之间的切换
 
 ##### 路径选择工具
 
-对路径进行移动、复制（按住<kbd>alt</kbd>键）、变换
+对路径进行移动、复制（按住`alt`键）、变换
 
 ##### 直接选择工具
 
@@ -589,21 +589,21 @@
 
 - 按住鼠标左键，进行拖拽，绘制曲线
 
-- 按住<kbd>alt</kbd>键，调节控杆一端的曲率
+- 按住`alt`键，调节控杆一端的曲率
 
-- 按住<kbd>alt</kbd>键，靠近锚点，调节控杆只有一端
+- 按住`alt`键，靠近锚点，调节控杆只有一端
 
-- 按住<kbd>shift</kbd>键，调节控杆固定角度
+- 按住`shift`键，调节控杆固定角度
 
 - 用直接选择工具，按住曲线边缘，来改变曲线的形状
 
 ### 选区
 
-反向快捷键：<kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>I</kbd>
+反向快捷键：`CTRL`+`SHIFT`+`I`
 
-羽化：能够制作出边缘比较柔和的图像（快捷键：<kbd>SHIFT</kbd>+<kbd>F6</kbd>）
+羽化：能够制作出边缘比较柔和的图像（快捷键：`SHIFT`+`F6`）
 
-快速建立绘制完成的路径选区：快捷键<kbd>CTRL</kbd>+<kbd>ENTER</kbd>
+快速建立绘制完成的路径选区：快捷键`CTRL`+`ENTER`
 
 平滑：修改边缘圆角大小
 
@@ -615,7 +615,7 @@
 
 Alpha通道（透明通道）：记录透明度信息的特殊图层，显示的黑色为透明，白色为不透明，灰阶（1-254）为半透明
 
-按住<kbd>CTRL</kbd>键，鼠标点击，载入选区
+按住`CTRL`键，鼠标点击，载入选区
 
 ### 图层蒙版
 
@@ -623,11 +623,11 @@ Alpha通道（透明通道）：记录透明度信息的特殊图层，显示的
 
 ##### 快速蒙版
 
-选择选区后，按住<kbd>Q</kbd>键，用画笔来调整选区
+选择选区后，按住`Q`键，用画笔来调整选区
 
 ### 文字工具
 
-快捷键：<kbd>T</kbd>
+快捷键：`T`
 
 <img src="./image/28.png" style="zoom: 120%;" />
 
@@ -645,7 +645,7 @@ Alpha通道（透明通道）：记录透明度信息的特殊图层，显示的
 
 ##### 文字两端对齐
 
-全选文字内容，按快捷键<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>J</kbd>
+全选文字内容，按快捷键`Ctrl` + `Shift` + `J`
 
 #### 在路径上填写文字
 
@@ -657,7 +657,7 @@ Alpha通道（透明通道）：记录透明度信息的特殊图层，显示的
 
 ### 标尺工具
 
-快捷键：<kbd>I</kbd>
+快捷键：`I`
 
 只要用于测量
 
@@ -705,7 +705,7 @@ Alpha通道（透明通道）：记录透明度信息的特殊图层，显示的
 
 ### 液化效果
 
-快捷键：<kbd>Ctrl </kbd>+ <kbd>Shift</kbd> +<kbd> X</kbd>
+快捷键：`Ctrl `+ `Shift` +` X`
 
 <img src="./image/49.png" style="zoom: 100%;" />
 
@@ -785,7 +785,7 @@ Alpha通道（透明通道）：记录透明度信息的特殊图层，显示的
 
 #### 吸管工具
 
-快捷键：<kbd>I</kbd>
+快捷键：`I`
 
 吸取颜色作为前景色
 
@@ -841,7 +841,7 @@ Alpha通道（透明通道）：记录透明度信息的特殊图层，显示的
 
 ### 色阶
 
-快捷键：<kbd>CTRL</kbd>+<kbd>L</kbd>
+快捷键：`CTRL`+`L`
 
 <img src="./image/16.png" style="zoom: 90%;" />
 
@@ -869,11 +869,11 @@ Alpha通道（透明通道）：记录透明度信息的特殊图层，显示的
 
 若只想影响单一某个图层，则将该调整图层添加剪切蒙版。
 
-按住<kbd>ALT</kbd>键鼠标在两图层中间位置左键点按
+按住`ALT`键鼠标在两图层中间位置左键点按
 
 ### 曲线
 
-快捷键：<kbd>CTRL</kbd>+<kbd>M</kbd>
+快捷键：`CTRL`+`M`
 
 <img src="./image/18.png" style="zoom: 120%;" />
 
@@ -889,7 +889,7 @@ Alpha通道（透明通道）：记录透明度信息的特殊图层，显示的
 
 ### 色彩平衡
 
-快捷键：<kbd>CTRL</kbd>+<kbd>B</kbd>
+快捷键：`CTRL`+`B`
 
 <img src="./image/21.png" style="zoom: 100%;" />
 
@@ -919,9 +919,9 @@ Alpha通道（透明通道）：记录透明度信息的特殊图层，显示的
 
 ### 反相
 
-快捷键：<kbd>CTRL</kbd>+<kbd>I</kbd>
+快捷键：`CTRL`+`I`
 
-选区反相：<kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>I</kbd>
+选区反相：`CTRL`+`SHIFT`+`I`
 
 效果生成色 = `(255-R,255-G,255-B)`
 
@@ -945,11 +945,11 @@ Alpha通道（透明通道）：记录透明度信息的特殊图层，显示的
 
 -   将饱和度降到最低
 -   用通道混合器选择单色
--   去色（快捷键<kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>U</kbd>）
+-   去色（快捷键`CTRL`+`SHIFT`+`U`）
 -   转为灰度模式
 -   `lab`模式删除`a`，`b`通道
 -   渐变映射，选择黑白渐变
--   黑白（快捷键：<kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>ALT</kbd>+<kbd>B</kbd>）
+-   黑白（快捷键：`CTRL`+`SHIFT`+`ALT`+`B`）
 
 ### 匹配颜色
 
@@ -965,15 +965,15 @@ Alpha通道（透明通道）：记录透明度信息的特殊图层，显示的
 
 ### 自动色调
 
-快捷键：<kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>L</kbd>
+快捷键：`CTRL`+`SHIFT`+`L`
 
 ### 自动对比度
 
-快捷键：<kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>ALT</kbd>+<kbd>L</kbd>
+快捷键：`CTRL`+`SHIFT`+`ALT`+`L`
 
 ### 自动颜色
 
-快捷键：<kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>B</kbd>
+快捷键：`CTRL`+`SHIFT`+`B`
 
 ### 应用图像
 
@@ -989,7 +989,7 @@ Alpha通道（透明通道）：记录透明度信息的特殊图层，显示的
 
 ## `Camera RAW`(照相机滤镜)
 
-快捷键：<kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>A</kbd>
+快捷键：`CTRL`+`SHIFT`+`A`
 
 
 
@@ -999,8 +999,8 @@ Alpha通道（透明通道）：记录透明度信息的特殊图层，显示的
    1. 【一般扣取相对简单的图形】
 
 2. <font color=red>钢笔</font>工具进行精细抠图
-   1. （配合<kbd>alt</kbd>增减锚点、移动手柄,<kbd>ctrl</kbd>（小白工具移动锚点位置））
-   2. 扣完之后，调出选区<kbd>ctrl</kbd> + <kbd>enter</kbd>,再<kbd>ctrl</kbd>+<kbd>j</kbd>
+   1. （配合`alt`增减锚点、移动手柄,`ctrl`（小白工具移动锚点位置））
+   2. 扣完之后，调出选区`ctrl` + `enter`,再`ctrl`+`j`
    3. 复制到新图层【一般扣去相对复制，不规则图形，但相对层次分明的图形（如汽车）】
 
 3. 用<font color=red>套索</font>工具勾出大概轮廓
@@ -1008,10 +1008,10 @@ Alpha通道（透明通道）：记录透明度信息的特殊图层，显示的
    2. 再点击**选择并遮住**,跳出工具栏，选择调**整边缘画笔工具**，进行边缘细致涂抹，【扣取有动物毛发，或者人像的图像】
 
 4. 选择**通道**，选择对比最强的通道（黑白对比最明显的通道）
-   1. 复制该通道作为备份，然后调出<font color=blue>色阶</font><kbd>ctrl</kbd>+<kbd>l</kbd>，拉动两边的滑块向中央靠拢，调整到合适的阶段
+   1. 复制该通道作为备份，然后调出<font color=blue>色阶</font>`ctrl`+`l`，拉动两边的滑块向中央靠拢，调整到合适的阶段
    2. 再用<font color=red>画笔</font>把不需要抠除的地方进行涂抹，或者用<font color=red>钢笔</font>工具抠出边缘
-   3. 完成后，按住<kbd>ctrl</kbd>,鼠标点击该通道，跳出选区
-   4. 再回到图层，<kbd>ctrl</kbd>+<kbd>j</kbd>复制选区，最后用<font color=red>减淡</font>工具将透明的婚纱刷白【婚纱（新娘头发不发散聚集在一起）、或有透明元素的图像】
+   3. 完成后，按住`ctrl`,鼠标点击该通道，跳出选区
+   4. 再回到图层，`ctrl`+`j`复制选区，最后用<font color=red>减淡</font>工具将透明的婚纱刷白【婚纱（新娘头发不发散聚集在一起）、或有透明元素的图像】
 
 5. 背景为黑的光效，直接用混合模式改为<font color=blue>滤色</font>，直接抠出
 
@@ -1197,7 +1197,7 @@ Alpha通道（透明通道）：记录透明度信息的特殊图层，显示的
 简单人像精修流程：
 
 1. 修补工具（<font color = red>污点画笔工具</font>等），修掉脸上的杂质（痘、斑、疹），完成后复制一个图层【祛斑】
-2. 反相图层<kbd>ctrl</kbd>+<kbd>i</kbd>,图层混合选项改为<font color = blue>线性光</font>，选择滤镜-->其他-->高反差保留，再到滤镜-->模糊--><font color = red>高斯模糊</font>，加上一个<font color = blue>图层蒙版</font>，把不需要磨皮的地方用画笔涂抹干净，【磨皮】
+2. 反相图层`ctrl`+`i`,图层混合选项改为<font color = blue>线性光</font>，选择滤镜-->其他-->高反差保留，再到滤镜-->模糊--><font color = red>高斯模糊</font>，加上一个<font color = blue>图层蒙版</font>，把不需要磨皮的地方用画笔涂抹干净，【磨皮】
 3. 选择<font color = blue>曲线</font>，对画面调亮（一般来说是变亮，更有美白效果），曲线图层添加蒙版
 4. 用白色、透明度较低的<font color = red>画笔</font>，在高光的位置进行涂抹，再添加一个曲线调暗，添加蒙版用白色、透明度较低的画笔，在暗色的位置进行涂抹【处理明暗关系】
 5. 也可以用中性灰来进行类似操作
@@ -1209,7 +1209,7 @@ Alpha通道（透明通道）：记录透明度信息的特殊图层，显示的
 
 <img src="./image/7.jpg" style="zoom: 80%;" />
 
-1. 提取高光：<kbd>ctrl</kbd>+<kbd>alt</kbd>+<kbd>2</kbd>
+1. 提取高光：`ctrl`+`alt`+`2`
 2. 复制高光到新图层（多复制几层），再进行合并
 3. 选择滤镜-->模糊--><font color = red>径向模糊</font>，设置参数，模糊方式该为缩放，品质改为最好，数量选择较大的值，根据画面的光源，调整中心模糊的位置，与原图相对应
 
@@ -1306,9 +1306,9 @@ Alpha通道（透明通道）：记录透明度信息的特殊图层，显示的
 
 ## 合成基础
 
-透视工具：快捷键：<kbd>ctrl</kbd>+<kbd>alt</kbd>+<kbd>shift</kbd>
+透视工具：快捷键：`ctrl`+`alt`+`shift`
 
-快速剪切蒙版<kbd>ctrl</kbd>+<kbd>alt</kbd>+<kbd>g</kbd>
+快速剪切蒙版`ctrl`+`alt`+`g`
 
 ## 调色基础
 
@@ -1340,11 +1340,11 @@ Alpha通道（透明通道）：记录透明度信息的特殊图层，显示的
 
 常规厚度字体：
 
-1. <kbd>CTRL</kbd>+<kbd>T</kbd>,往想要移动的方向移动一个像素
-2. 三键（<kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>alt</kbd>）+<kbd>T</kbd>,多按几次来确定厚度
+1. `CTRL`+`T`,往想要移动的方向移动一个像素
+2. 三键（`ctrl`+`shift`+`alt`）+`T`,多按几次来确定厚度
 
 有透视的厚度字体：
 
-1. <kbd>CTRL</kbd>+<kbd>T</kbd>,锁定长宽比例，再移动重心,到消失点调整长宽比例（一般为99.7%）
-2. 三键（<kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>alt</kbd>）+<kbd>T</kbd>,多按几次来确定厚度
+1. `CTRL`+`T`,锁定长宽比例，再移动重心,到消失点调整长宽比例（一般为99.7%）
+2. 三键（`ctrl`+`shift`+`alt`）+`T`,多按几次来确定厚度
 
