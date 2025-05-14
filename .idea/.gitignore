@@ -9,6 +9,7 @@
 /.idea/dataSources/
 /.idea/dataSources.local.xml
 # 默认忽略的目录
+
 /.git/
 /.idea/
 /.vscode/
