@@ -1,34 +1,55 @@
-# .github/workflows/deploy.yml
-name: Deploy VitePress
-
-
+name: Deploy VitePress to GitHub Pages
 
 on:
   push:
-    branches:
-      - main # 触发部署的分支
+    branches: [master]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
     steps:
+      # 1. 拉取代码
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
+      # 2. 安装Node.js与依赖（修改点1：使用npm缓存）
       - name: Setup Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
-          node-version: '18'
+          node-version: '20'
+          cache: 'npm'  # 改为npm缓存（自动识别package-lock.json）
 
-      - name: Install Dependencies
-        run: npm install
+      # 3. 安装依赖并构建（修改点2：使用npm命令）
+      - name: Install & Build
+        run: |
+          npm ci           # 推荐CI环境使用（根据package-lock.json精确安装）
+          npm run docs:build
 
-      - name: Build VitePress
-        run: npx vitepress build
-
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+      # 4. 上传构建产物
+      - name: Upload Artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist # 根据你实际的输出目录调整
+          path: docs/.vitepress/dist
 
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - name: Deploy
+        id: deploy
+        uses: actions/deploy-pages@v4
