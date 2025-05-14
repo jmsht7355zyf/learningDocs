@@ -4,13 +4,14 @@ export default defineConfig({
   base: '/learningDocs/',
   title: "凡尘轩",
   description: "个人学习记录",
-  logo: "/logo.svg",
+  // logo: "/logo.svg",
   siteTitle: false,
 
 
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    // 导航栏
     nav: [
       { text: '首页', link: '/' },
       { text: '学习分类', link: '/class' },
@@ -27,15 +28,13 @@ export default defineConfig({
       // 显示标题
       text: true,
 
-
-
     },
     },
 
 
 
 
-
+// 侧边导航栏
     // sidebar: [
     //   {
     //     text: '分类导航',
@@ -61,6 +60,7 @@ export default defineConfig({
     //   }
     // ],
 
+    // 页脚
     footer: {
       message: 'Released under the MIT License.',
       copyright: 'Copyright © 2019-present fcx'
@@ -69,7 +69,8 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/jmsht7355zyf' }
     ],
-// 搜索
+
+// 搜索配置
 
     search: {
       provider: 'local',
