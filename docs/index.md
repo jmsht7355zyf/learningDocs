@@ -6,6 +6,9 @@ hero:
   name: "凡尘轩"
   text: "个人学习记录"
   tagline: 
+  image:
+    src: /logo.png
+    alt: VitePress
   actions:
     - theme: brand
       text: 学习分类
