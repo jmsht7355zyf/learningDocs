@@ -1,6 +1,5 @@
 name: Deploy VitePress to GitHub Pages
 
-
 on:
   push:
     branches: [master]
