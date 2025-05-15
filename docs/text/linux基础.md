@@ -1,25 +1,6 @@
 # Linux 基础
 
 
-个人设置用户密码
-
-## 账号
-
-账号：jmsht 
-
-密码：123
-
-
-
-账号：zyf
-
-密码：123456
-
-##  服务器IP
-
-Mac Ubuntu zyf
-
-Ssh：ssh zyf@192.168.0.102
 
 ## linux 基础命令（Ubuntu）
 
@@ -28,8 +9,6 @@ Ssh：ssh zyf@192.168.0.102
 ```shell
 man '命令' #查找命令的帮助
 ```
-
-
 
 ### 连接服务器
 
@@ -182,9 +161,9 @@ sudo apt install vim
 
 ### 模式选择
 
-命令模式：<kbd>esc</kbd>
+命令模式：`esc`
 
-插入（编辑）模式：<kbd>i</kbd>，<kbd>shift</kbd>+<kbd>i</kbd>（到行首），<kbd>shift</kbd>+<kbd>a</kbd>（到行尾）
+插入（编辑）模式：`i`，`shift`+`i`（到行首），`shift`+`a`（到行尾）
 
 ### 配置文件  .vimrc
 
@@ -195,83 +174,83 @@ set nu #显示行号
 
 ### 命令模式
 
-<kbd>：</kbd>+<kbd>w</kbd> 保存
+`：`+`w` 保存
 
-<kbd>：</kbd>+<kbd>q</kbd> 直接退出
+`：`+`q` 直接退出
 
-<kbd>：</kbd>+<kbd>w</kbd>+<kbd>q</kbd>  保存退出
+`：`+`w`+`q`  保存退出
 
-<kbd>：</kbd>+<kbd>q</kbd>+<kbd>！</kbd> 强行退出
-
-
-
-<kbd>x</kbd> 删除光标处的字符
-
-<kbd>u</kbd> 撤销上一次操作
-
-<kbd>shift</kbd>+<kbd>d</kbd>  删除行内光标后面的内容 
-
-<kbd>d</kbd>+<kbd>d</kbd> 删除所在行
-
-<kbd>3</kbd>+<kbd>d</kbd>+<kbd>d</kbd>  删除所在行至下的3行
+`：`+`q`+`！` 强行退出
 
 
 
-<kbd>y</kbd>+<kbd>y</kbd> 复制光标所在的整行内容
+`x` 删除光标处的字符
 
-<kbd>3</kbd>+<kbd>y</kbd>+<kbd>y</kbd> 复制光标所在及下方2行的内容
+`u` 撤销上一次操作
 
+`shift`+`d`  删除行内光标后面的内容 
 
+`d`+`d` 删除所在行
 
-<kbd>p</kbd> 将复制的内容粘贴到光标处
-
-
-
-<kbd>w</kbd> 光标往后移动一个字符
-
-<kbd>b</kbd> 光标往前移动一个字符
-
-<kbd>3</kbd>+<kbd>+</kbd> 光标向后移动3行
-
-<kbd>3</kbd>+<kbd>-</kbd> 光标向前移动3行
-
-<kbd>^</kbd> 光标移动到行首
-
-<kbd>$</kbd> 光标移动到行尾
-
-<kbd>g</kbd>+<kbd>g</kbd> 光标移动到文档头
-
-<kbd>shift</kbd>+<kbd>g</kbd> 光标移动到文档尾
-
-<kbd>shift</kbd>+<kbd>h</kbd> 光标移动到当前页首
+`3`+`d`+`d`  删除所在行至下的3行
 
 
 
-<kbd>/</kbd>+`字符` 查找字符
+`y`+`y` 复制光标所在的整行内容
 
- <kbd>：</kbd>+<kbd>/</kbd>+`原字符`+<kbd>/</kbd>+`替换字符` 替换当前所在行的首字符
-
- <kbd>：</kbd>+<kbd>/</kbd>+`原字符`+<kbd>/</kbd>+`替换字符` +<kbd>/</kbd>+<kbd>g</kbd> 替换当前所在行的所有字符
-
- <kbd>：</kbd>+<kbd>/</kbd>+`原字符`+<kbd>/</kbd>+`替换字符` +<kbd>/</kbd>+<kbd>%</kbd> 替换所有字符
+`3`+`y`+`y` 复制光标所在及下方2行的内容
 
 
 
-<kbd>v</kbd> 选中模式
-
-<kbd>ctrl</kbd>+<kbd>v</kbd> 竖选
-
-<kbd>：</kbd>+<kbd>h</kbd>+<kbd>e</kbd>+<kbd>l</kbd>+<kbd>p</kbd> help帮助
+`p` 将复制的内容粘贴到光标处
 
 
 
-<kbd>ctrl</kbd>+ <kbd>d</kbd> 向下翻半页
+`w` 光标往后移动一个字符
 
-<kbd>ctrl</kbd>+ <kbd>f</kbd> 向下翻一页
+`b` 光标往前移动一个字符
 
-<kbd>ctrl</kbd>+ <kbd>u</kbd> 向上翻半页
+`3`+`+` 光标向后移动3行
 
-<kbd>ctrl</kbd>+ <kbd>b</kbd> 向下翻一页
+`3`+`-` 光标向前移动3行
+
+`^` 光标移动到行首
+
+`$` 光标移动到行尾
+
+`g`+`g` 光标移动到文档头
+
+`shift`+`g` 光标移动到文档尾
+
+`shift`+`h` 光标移动到当前页首
+
+
+
+`/`+`字符` 查找字符
+
+ `：`+`/`+`原字符`+`/`+`替换字符` 替换当前所在行的首字符
+
+ `：`+`/`+`原字符`+`/`+`替换字符` +`/`+`g` 替换当前所在行的所有字符
+
+ `：`+`/`+`原字符`+`/`+`替换字符` +`/`+`%` 替换所有字符
+
+
+
+`v` 选中模式
+
+`ctrl`+`v` 竖选
+
+`：`+`h`+`e`+`l`+`p` help帮助
+
+
+
+`ctrl`+ `d` 向下翻半页
+
+`ctrl`+ `f` 向下翻一页
+
+`ctrl`+ `u` 向上翻半页
+
+`ctrl`+ `b` 向下翻一页
 
 
 
