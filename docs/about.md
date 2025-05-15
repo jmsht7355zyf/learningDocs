@@ -1,7 +1,5 @@
 # 关于我
 
-![About](./text/image/about.jpg)
-
 ## 姓名：郑依凡
 
 ## 邮箱：jmsht7355@163.com
