@@ -29,7 +29,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
           cache: 'npm'  # 改为npm缓存（自动识别package-lock.json）
 
       # 3. 安装依赖并构建（修改点2：使用npm命令）
