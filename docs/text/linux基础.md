@@ -1,7 +1,5 @@
 # Linux 基础
 
-
-
 ## linux 基础命令（Ubuntu）
 
 ### 帮助
