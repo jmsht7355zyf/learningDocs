@@ -1,6 +1,6 @@
 # 关于我
 
-![](/about.png)
+![](./text/image/about.jpg)
 
 ## 姓名：郑依凡
 

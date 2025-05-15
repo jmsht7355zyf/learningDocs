@@ -30,7 +30,7 @@
 - 画板
 - 等等
 
-<img src="./image/1.png" alt="1" style="zoom:67%;" />
+<img src="./image/1-1.jpg" alt="1" style="zoom:67%;" />
 
 ## 文档
 
@@ -52,13 +52,13 @@
 
 ### 新建预设
 
-<img src="./image/2.png" style="zoom: 80%;" />
+<img src="./image/2-1.jpg" style="zoom: 80%;" />
 
 常用分辨率设置：
 
 根据不同的情况设置不一样的分辨率，来满足对应需求
 
-<img src="./image/3.png" style="zoom: 50%;" />
+<img src="./image/3-1.jpg" style="zoom: 50%;" />
 
 ### 图像文件设置
 
@@ -68,9 +68,9 @@
 
 像素计算公式：
 
-<img src="./image/4.png" style="zoom: 33%;" />
+<img src="./image/4-1.jpg" style="zoom: 33%;" />
 
-<img src="./image/5.png" style="zoom: 33%;" />
+<img src="./image/5-1.jpg" style="zoom: 33%;" />
 
 ## 软件设置
 
@@ -90,21 +90,21 @@
 
 ### 动作命令
 
-<img src="./image/31.png" style="zoom: 100%;" />
+<img src="./image/31.jpg" style="zoom: 100%;" />
 
 点击录制小图标，进行操作，操作完成后，点击停止录制，记录操作，再点击播放小图标，来实现自动化效果
 
 ### 批处理命令
 
-<img src="./image/32.png" style="zoom: 100%;" />
+<img src="./image/32.JPG" style="zoom: 100%;" />
 
-<img src="./image/33.png" style="zoom: 100%;" />
+<img src="./image/33.jpg" style="zoom: 100%;" />
 
 ### 脚本
 
 #### 图像处理器
 
-<img src="./image/34.png" style="zoom: 100%;" />
+<img src="./image/34.jpg" style="zoom: 100%;" />
 
 ## 图层
 
@@ -130,7 +130,7 @@
 
 ### 图层过滤
 
-<img src="./image/10.png" style="zoom: 100%;" />
+<img src="./image/10.jpg" style="zoom: 100%;" />
 
 利用筛选，快速找到想要找的图层
 
@@ -168,7 +168,7 @@
 
 双击图层边缘弹出图层样式
 
-<img src="./image/36.png" style="zoom: 100%;" />
+<img src="./image/36.jpg" style="zoom: 100%;" />
 
 ### 智能对象
 
@@ -328,7 +328,7 @@
 
 #### 裁切
 
-<img src="./image/30.png" style="zoom: 100%;" />
+<img src="./image/30.jpg" style="zoom: 100%;" />
 
 ### 辅助功能
 
@@ -370,7 +370,7 @@
 
 #### 选区选项
 
-<img src="./image/6.png" style="zoom: 80%;" />
+<img src="./image/6.jpg" style="zoom: 80%;" />
 
 -   新选区
 -   合并选区
@@ -509,7 +509,7 @@
 
 渐变工具选项：
 
-<img src="./image/9.png" style="zoom: 100%;" />
+<img src="./image/9.jpg" style="zoom: 100%;" />
 
 ### 自由变换工具
 
@@ -531,7 +531,7 @@
 
 按住`ctrl`键，切换为直接选择工具
 
-<img src="./image/23.png" style="zoom: 100%;" />
+<img src="./image/23.jpg" style="zoom: 100%;" />
 
 #### 路径
 
@@ -539,13 +539,13 @@
 
 ##### 路径操作与对齐
 
-<img src="./image/24.png" style="zoom: 100%;" />
+<img src="./image/24.jpg" style="zoom: 100%;" />
 
-<img src="./image/25.png" style="zoom: 100%;" />
+<img src="./image/25.jpg" style="zoom: 100%;" />
 
 ##### 矢量蒙版
 
-<img src="./image/26.png" style="zoom: 120%;" />
+<img src="./image/26.jpg" style="zoom: 120%;" />
 
 蒙版图层只能用矢量工具来调整细节
 
@@ -629,9 +629,9 @@ Alpha通道（透明通道）：记录透明度信息的特殊图层，显示的
 
 快捷键：`T`
 
-<img src="./image/28.png" style="zoom: 120%;" />
+<img src="./image/28.jpg" style="zoom: 120%;" />
 
-<img src="./image/27.png" style="zoom: 110%;" />
+<img src="./image/27.jpg" style="zoom: 110%;" />
 
 文字图层可以转化为形状图层，转化为路径
 
@@ -639,7 +639,7 @@ Alpha通道（透明通道）：记录透明度信息的特殊图层，显示的
 
 #### 文字工作选项
 
-<img src="./image/29.png" style="zoom: 150%;" />
+<img src="./image/29.jpg" style="zoom: 150%;" />
 
 对于不同大小的字体而言，大字体使用平滑效果，小字体则不适用抗锯齿效果
 
@@ -687,7 +687,7 @@ Alpha通道（透明通道）：记录透明度信息的特殊图层，显示的
 
 ### 滤镜库
 
-<img src="./image/48.png" style="zoom: 100%;" />
+<img src="./image/48.jpg" style="zoom: 100%;" />
 
 ### 水墨效果
 
@@ -707,7 +707,7 @@ Alpha通道（透明通道）：记录透明度信息的特殊图层，显示的
 
 快捷键：`Ctrl `+ `Shift` +` X`
 
-<img src="./image/49.png" style="zoom: 100%;" />
+<img src="./image/49.jpg" style="zoom: 100%;" />
 
 ### 查找边缘
 
@@ -793,9 +793,9 @@ Alpha通道（透明通道）：记录透明度信息的特殊图层，显示的
 
 #### 色相
 
-<img src="./image/11.png" style="zoom: 80%;" />
+<img src="./image/11.jpg" style="zoom: 80%;" />
 
-<img src="./image/12.png" style="zoom: 80%;" />
+<img src="./image/12.jpg" style="zoom: 80%;" />
 
 #### 明度
 
@@ -807,9 +807,9 @@ Alpha通道（透明通道）：记录透明度信息的特殊图层，显示的
 
 ### `CMYK`模式（印刷色彩模式）
 
-<img src="./image/13.png" style="zoom: 100%;" />
+<img src="./image/13.jpg" style="zoom: 100%;" />
 
-<img src="./image/14.png" style="zoom: 60%;" />
+<img src="./image/14.jpg" style="zoom: 60%;" />
 
 ### 位图模式
 
@@ -825,17 +825,17 @@ Alpha通道（透明通道）：记录透明度信息的特殊图层，显示的
 
 `Ps`旧版与新版的区别（亮度/对比度）
 
-<img src="./image/15.png" style="zoom: 60%;" />
+<img src="./image/15.jpg" style="zoom: 60%;" />
 
 ### 索引模式
 
-<img src="./image/37.png" style="zoom: 120%;" />
+<img src="./image/37.jpg" style="zoom: 120%;" />
 
 ### lab模式
 
 通道为明度、`a`、`b`三个通道
 
-<img src="./image/38.png" style="zoom: 100%;" />
+<img src="./image/38.jpg" style="zoom: 100%;" />
 
 用于调色比较方便
 
@@ -843,13 +843,13 @@ Alpha通道（透明通道）：记录透明度信息的特殊图层，显示的
 
 快捷键：`CTRL`+`L`
 
-<img src="./image/16.png" style="zoom: 90%;" />
+<img src="./image/16.jpg" style="zoom: 90%;" />
 
 直方图横坐标代表像素发光强度（黑、灰、白）
 
 直方图纵坐标代表每个颜色像素分布的多少
 
-<img src="./image/19.png" style="zoom: 100%;" />
+<img src="./image/19.jpg" style="zoom: 100%;" />
 
 #### 调整色阶
 
@@ -865,7 +865,7 @@ Alpha通道（透明通道）：记录透明度信息的特殊图层，显示的
 
 对下方所有图层起调整作用（色阶、曲线、饱和度等相关效果）
 
-<img src="./image/17.png" style="zoom: 120%;" />
+<img src="./image/17.jpg" style="zoom: 120%;" />
 
 若只想影响单一某个图层，则将该调整图层添加剪切蒙版。
 
@@ -875,11 +875,11 @@ Alpha通道（透明通道）：记录透明度信息的特殊图层，显示的
 
 快捷键：`CTRL`+`M`
 
-<img src="./image/18.png" style="zoom: 120%;" />
+<img src="./image/18.jpg" style="zoom: 120%;" />
 
 拉动曲线往下压则变暗，往上抬则变亮
 
-<img src="./image/20.png" style="zoom: 100%;" />
+<img src="./image/20.jpg" style="zoom: 100%;" />
 
 操作顺序：
 
@@ -891,9 +891,9 @@ Alpha通道（透明通道）：记录透明度信息的特殊图层，显示的
 
 快捷键：`CTRL`+`B`
 
-<img src="./image/21.png" style="zoom: 100%;" />
+<img src="./image/21.jpg" style="zoom: 100%;" />
 
-<img src="./image/22.png" style="zoom: 100%;" />
+<img src="./image/22.jpg" style="zoom: 100%;" />
 
 
 
@@ -913,9 +913,9 @@ Alpha通道（透明通道）：记录透明度信息的特殊图层，显示的
 
 ### 可选颜色
 
-<img src="./image/39.png" style="zoom: 120%;" />
+<img src="./image/39.jpg" style="zoom: 120%;" />
 
-<img src="./image/40.png" style="zoom: 100%;" />
+<img src="./image/40.jpg" style="zoom: 100%;" />
 
 ### 反相
 
@@ -957,11 +957,11 @@ Alpha通道（透明通道）：记录透明度信息的特殊图层，显示的
 
 此操作会损耗原照片的细节、颜色，一般不用于精修
 
-<img src="./image/41.png" style="zoom: 100%;" />
+<img src="./image/41.jpg" style="zoom: 100%;" />
 
 ### 颜色替换
 
-<img src="./image/42.png" style="zoom: 100%;" />
+<img src="./image/42.jpg" style="zoom: 100%;" />
 
 ### 自动色调
 
@@ -977,15 +977,15 @@ Alpha通道（透明通道）：记录透明度信息的特殊图层，显示的
 
 ### 应用图像
 
-<img src="./image/43.png" style="zoom: 100%;" />
+<img src="./image/43.jpg" style="zoom: 100%;" />
 
 ### `HDR`色调
 
-<img src="./image/44.png" style="zoom: 100%;" />
+<img src="./image/44.jpg" style="zoom: 100%;" />
 
 ### 阴影/高光
 
-<img src="./image/45.png" style="zoom: 100%;" />
+<img src="./image/45.jpg" style="zoom: 100%;" />
 
 ## `Camera RAW`(照相机滤镜)
 
@@ -1045,7 +1045,7 @@ Alpha通道（透明通道）：记录透明度信息的特殊图层，显示的
 
 一般用于色彩比较分明的图片来操作
 
-<img src="./image/46.png" style="zoom: 100%;" />
+<img src="./image/46.jpg" style="zoom: 100%;" />
 
 #### 半透明材质抠图（玻璃、水杯）
 
@@ -1055,7 +1055,7 @@ Alpha通道（透明通道）：记录透明度信息的特殊图层，显示的
 
 #### 计算
 
-<img src="./image/47.png" style="zoom: 100%;" />
+<img src="./image/47.jpg" style="zoom: 100%;" />
 
 ### 照片拼版
 
@@ -1107,7 +1107,7 @@ Alpha通道（透明通道）：记录透明度信息的特殊图层，显示的
 
 高光、明暗交接、暗部、反光、投影
 
-<img src="./image/61.png" style="zoom: 80%;" />
+<img src="./image/61.jpg" style="zoom: 80%;" />
 
 ### 操控变形
 
@@ -1223,7 +1223,7 @@ Alpha通道（透明通道）：记录透明度信息的特殊图层，显示的
 
 ​		一般产品（瓶罐）布光轮廓
 
-<img src="./image/58.png" style="zoom: 80%;" />
+<img src="./image/58.jpg" style="zoom: 80%;" />
 
 4. 修补瑕疵
 
@@ -1282,9 +1282,9 @@ Alpha通道（透明通道）：记录透明度信息的特殊图层，显示的
 
 #### 光影衰减
 
-<img src="./image/59.png" style="zoom: 160%;" />
+<img src="./image/59.jpg" style="zoom: 160%;" />
 
-<img src="./image/60.png" style="zoom: 160%;" />
+<img src="./image/60.jpg" style="zoom: 160%;" />
 
 #### 光效制作
 
