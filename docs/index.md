@@ -6,7 +6,8 @@ layout: home
 hero:
   name: "凡尘轩"
   text: "个人学习记录"
-  tagline: 
+  tagline:  ""
+  image: "/logo.png"
  
   actions:
     - theme: brand
