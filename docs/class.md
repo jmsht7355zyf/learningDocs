@@ -2,12 +2,6 @@
 
 ## 前端技术相关
 
-[JavaScript基础](text/JavaScript基础)
-
-[typescript基础](text/typescript基础)
-
-[vue3基础](text/vue3基础)
-
 ## 后端技术相关
 
 [python基础](text/python基础)

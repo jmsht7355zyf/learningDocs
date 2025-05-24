@@ -21,15 +21,6 @@ features:
   - title: python基础
     details: 学习python基础语法及相关实例
     link: /text/python基础
-  - title: JavaScript基础
-    details: 前端js相关基础学习
-    link: /text/JavaScript基础
-  - title: vue3基础
-    details: 理解学习vue前端框架相关内容
-    link: /text/vue3基础
-  - title: typescript基础
-    details: 理解学习typescript前端框架相关内容
-    link: /text/typescript基础
   - title: windows快捷键
     details: windows基础操作
     link: /text/windows常用快捷键
