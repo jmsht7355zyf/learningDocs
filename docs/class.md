@@ -1,7 +1,5 @@
 # 文档分类
 
-## 前端技术相关
-
 ## 后端技术相关
 
 [python基础](text/python基础)
@@ -15,6 +13,3 @@
 [mac快捷键](text/mac常用快捷键)
 
 [typora基础](text/typora基本语法)
-
-## 美工设计相关
-
